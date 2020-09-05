@@ -1,13 +1,13 @@
 <annotation>
 	<folder>Annotated Images</folder>
-	<filename>11.jpg</filename>
-	<path>D:\Machine_and_Deep_Learning_Project\pothole image dataset\Annotated Images\11.jpg</path>
+	<filename>26.jpg</filename>
+	<path>D:\Machine_and_Deep_Learning_Project\pothole image dataset\Annotated Images\26.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>500</height>
+		<width>1300</width>
+		<height>866</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>215</xmin>
-			<ymin>336</ymin>
-			<xmax>510</xmax>
-			<ymax>402</ymax>
+			<xmin>358</xmin>
+			<ymin>500</ymin>
+			<xmax>734</xmax>
+			<ymax>558</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>235</xmin>
-			<ymin>154</ymin>
-			<xmax>461</xmax>
-			<ymax>186</ymax>
+			<xmin>635</xmin>
+			<ymin>583</ymin>
+			<xmax>983</xmax>
+			<ymax>739</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +41,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>463</xmin>
-			<ymin>230</ymin>
-			<xmax>668</xmax>
-			<ymax>255</ymax>
+			<xmin>417</xmin>
+			<ymin>706</ymin>
+			<xmax>730</xmax>
+			<ymax>858</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>pothole</name>
+		<name>crack</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>246</xmin>
-			<ymin>260</ymin>
-			<xmax>404</xmax>
-			<ymax>291</ymax>
+			<xmin>693</xmin>
+			<ymin>298</ymin>
+			<xmax>792</xmax>
+			<ymax>394</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>pothole</name>
+		<name>crack</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>277</xmin>
-			<ymin>102</ymin>
-			<xmax>372</xmax>
-			<ymax>129</ymax>
+			<xmin>1025</xmin>
+			<ymin>442</ymin>
+			<xmax>1110</xmax>
+			<ymax>684</ymax>
 		</bndbox>
 	</object>
 </annotation>

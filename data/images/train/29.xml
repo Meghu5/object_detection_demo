@@ -1,13 +1,13 @@
 <annotation>
 	<folder>Annotated Images</folder>
-	<filename>11.jpg</filename>
-	<path>D:\Machine_and_Deep_Learning_Project\pothole image dataset\Annotated Images\11.jpg</path>
+	<filename>29.jpg</filename>
+	<path>D:\Machine_and_Deep_Learning_Project\pothole image dataset\Annotated Images\29.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>500</height>
+		<width>200</width>
+		<height>200</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>215</xmin>
-			<ymin>336</ymin>
-			<xmax>510</xmax>
-			<ymax>402</ymax>
+			<xmin>65</xmin>
+			<ymin>55</ymin>
+			<xmax>100</xmax>
+			<ymax>63</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>235</xmin>
-			<ymin>154</ymin>
-			<xmax>461</xmax>
-			<ymax>186</ymax>
+			<xmin>4</xmin>
+			<ymin>79</ymin>
+			<xmax>89</xmax>
+			<ymax>86</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>463</xmin>
-			<ymin>230</ymin>
-			<xmax>668</xmax>
-			<ymax>255</ymax>
+			<xmin>41</xmin>
+			<ymin>107</ymin>
+			<xmax>163</xmax>
+			<ymax>120</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>246</xmin>
-			<ymin>260</ymin>
-			<xmax>404</xmax>
-			<ymax>291</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>pothole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>277</xmin>
-			<ymin>102</ymin>
-			<xmax>372</xmax>
-			<ymax>129</ymax>
+			<xmin>12</xmin>
+			<ymin>131</ymin>
+			<xmax>192</xmax>
+			<ymax>180</ymax>
 		</bndbox>
 	</object>
 </annotation>

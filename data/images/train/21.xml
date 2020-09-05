@@ -1,13 +1,13 @@
 <annotation>
 	<folder>Annotated Images</folder>
-	<filename>9.jpg</filename>
-	<path>D:\Machine_and_Deep_Learning_Project\pothole image dataset\Annotated Images\9.jpg</path>
+	<filename>21.jpg</filename>
+	<path>D:\Machine_and_Deep_Learning_Project\pothole image dataset\Annotated Images\21.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>770</width>
-		<height>433</height>
+		<width>324</width>
+		<height>216</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>381</xmin>
-			<ymin>357</ymin>
-			<xmax>534</xmax>
-			<ymax>394</ymax>
+			<xmin>138</xmin>
+			<ymin>7</ymin>
+			<xmax>181</xmax>
+			<ymax>14</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>574</xmin>
-			<ymin>276</ymin>
-			<xmax>708</xmax>
-			<ymax>305</ymax>
+			<xmin>71</xmin>
+			<ymin>24</ymin>
+			<xmax>143</xmax>
+			<ymax>50</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>29</xmin>
-			<ymin>188</ymin>
-			<xmax>117</xmax>
-			<ymax>230</ymax>
+			<xmin>45</xmin>
+			<ymin>70</ymin>
+			<xmax>68</xmax>
+			<ymax>78</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,70 +53,58 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>6</xmin>
-			<ymin>237</ymin>
-			<xmax>177</xmax>
-			<ymax>292</ymax>
+			<xmin>116</xmin>
+			<ymin>74</ymin>
+			<xmax>194</xmax>
+			<ymax>95</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>pothole</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>201</xmin>
-			<ymin>177</ymin>
-			<xmax>319</xmax>
-			<ymax>226</ymax>
+			<xmin>31</xmin>
+			<ymin>158</ymin>
+			<xmax>260</xmax>
+			<ymax>216</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>pothole</name>
+		<name>crack</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>387</xmin>
-			<ymin>118</ymin>
-			<xmax>572</xmax>
-			<ymax>173</ymax>
+			<xmin>218</xmin>
+			<ymin>93</ymin>
+			<xmax>234</xmax>
+			<ymax>124</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>pothole</name>
+		<name>crack</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>714</xmin>
-			<ymin>226</ymin>
-			<xmax>758</xmax>
-			<ymax>264</ymax>
+			<xmin>34</xmin>
+			<ymin>113</ymin>
+			<xmax>67</xmax>
+			<ymax>138</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>pothole</name>
+		<name>crack</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>240</xmin>
-			<ymin>406</ymin>
-			<xmax>368</xmax>
-			<ymax>429</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>pothole</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>704</xmin>
-			<ymin>78</ymin>
-			<xmax>769</xmax>
-			<ymax>115</ymax>
+			<xmin>169</xmin>
+			<ymin>24</ymin>
+			<xmax>207</xmax>
+			<ymax>64</ymax>
 		</bndbox>
 	</object>
 </annotation>
