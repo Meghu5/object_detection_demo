@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Annotated Images</folder>
+	<filename>img-609.jpg</filename>
+	<path>D:\Machine_and_Deep_Learning_Project\pothole image dataset\Annotated Images\img-609.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>189</ymin>
+			<xmax>296</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>84</ymin>
+			<xmax>359</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pothole</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>52</ymin>
+			<xmax>240</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>
